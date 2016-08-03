@@ -1,0 +1,27 @@
+{
+  "name": "headersparser",
+  "version": "1.0.0",
+  "description": "A simple headers parser micro service created in order to took a part in freeCodeCamp back-end certification",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liketaurus/fcc-backend-headers.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "headersparser",
+    "API",
+    "freeCodeCamp"
+  ],
+  "author": "Alexander Babich",
+  "license": "ISC",
+  "engines": {
+    "node": "4.4.5",
+    "npm" : "3.10.5"
+  }
+}
